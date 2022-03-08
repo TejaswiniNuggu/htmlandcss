@@ -1,0 +1,25 @@
+h3,table,td{
+    background-color: white;
+    padding: 20px;
+    height: 30px;
+    text-align: center;
+    
+
+}
+.margin{
+    
+    background-color:black;
+    border: 5px;
+    padding: auto;
+}
+
+#heading{
+    border-top:none;
+    border-right:none;
+    border-left: none;
+    font-size: 20px;
+}
+
+#tablestart{
+    margin-top: 200px;
+}

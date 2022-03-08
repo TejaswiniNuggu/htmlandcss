@@ -1,0 +1,96 @@
+h1{
+  background-color: red;
+  color: white;
+  padding: 5px;
+}
+div{
+  padding: 2px;
+  margin: 5px;
+  color: black;
+  width:"20%"
+}
+.name{
+  display: inline
+
+}
+.detail{
+  display: inline
+}
+#for{
+  margin: 50px;
+  background-color:white;
+  width: 45%;
+  height: 50%;
+}
+.text-fname{
+  text-align:center;
+  font-style: italic;
+  color:black;
+  float:left;
+  width:45%;
+  outline: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom:solid 3px black;
+  
+}
+
+.text-lname{
+  text-align:center;
+  font-style: italic;
+  width:45%;
+  color:black;
+  float:right;
+  outline: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom:solid 3px black;
+  
+}
+.text-city{
+  text-align:center;
+  font-style: italic;
+  float: left;
+  color:black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom:solid 3px black;
+}
+.text-state{
+  text-align:center;
+  font-style: italic;
+  float:middle;
+  color:black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom:solid 3px black;
+}
+.text-zip{
+  text-align:center;
+  font-style: italic;
+  float: right;
+  color:black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom:solid 3px black;
+}
+.text-addrs{
+  text-align:center;
+  font-style: italic;
+  width: 100%;
+  color:black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom:solid 3px black;
+}
+input{
+  border:0;
+  outline:0;
+  border-bottom:2px solid black;
+}

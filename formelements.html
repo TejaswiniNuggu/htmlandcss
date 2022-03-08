@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--input-->
+    <label for="name">Name:</label>
+    <input type="text" name="name"><br>
+<!--select-->
+<label for="course">course</label>
+<select name="course" >
+    <option value="HTML">HTML</option>
+    <option value="CSS">CSS</option>
+    <option value="JS">JS</option>
+</select><br>
+<!---text area-->
+<label for="comments">comments</label>
+<textarea name="comments" style="width: 10px; height:10px;"></textarea><br>
+<!--button-->
+<label for="button">click me</label>
+<button type="button" onclick="alert('button pop')">click me</button><br>
+ <!--datalist-->
+ <label for="food">Menu:</label>
+ <input list="Menu">
+ <datalist id="Menu">
+     <option value="idly">
+         <option value="vada">
+             <option value="dosa"></option>
+         </datalist>
+<br>
+<!--field set and legend-->
+<form action="">
+    <label for="fieldset">fieldsetexample:</label>
+    <fieldset>
+      <legend>Personalia:</legend>
+      <label for="fname">Firstname:</label>
+      <input type="text" name="fname"><br>
+      <label for="lname">Lastname:</label>
+      <input type="text"  name="lname" ><br>
+      <input type="submit" value="Submit">
+    </fieldset>
+   
+    
+</body>
+</html>
