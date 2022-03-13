@@ -1,0 +1,61 @@
+table {
+    
+    table-layout: fixed;
+    width: 590px;
+
+}
+table td{
+    height:25px;
+}
+section {
+    width: 480px;
+    padding: 10px;
+}
+th {
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    
+}
+.table-2{
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.subscripton-time{
+    margin-top: 5px;
+}
+.zip {
+    text-align: center;
+}
+.user-info {
+    text-align: center;
+    font-family: 'Parisienne', cursive;
+    text-weight: bold;
+}
+.card {
+    border: 3px solid black;
+    width: 590px;
+}
+.user-input {
+    text-align: center;
+    font-family: 'Parisienne', cursive;
+    text-weight: bold;
+    position: relative;
+    top: -331px;
+}
+.table-1{
+    display: relative;
+    table-layout: fixed;
+}
+.table-1 td{
+    height: 25px;
+}
+.table-3 {
+    table-layout: fixed;
+}
+.table-3 td{
+    height: 25px;
+    font-weight: bold;
+}
+
